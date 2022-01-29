@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "name": "venkat",
+      "userName": "Reddy",
+      "email": "Venkat@gmail.com",
+      "mobile": "99999999",
+      "id": 1
+    },
+    {
+      "name": "shiva",
+      "userName": "shiva reddy",
+      "email": "shiva@gmail.com",
+      "mobile": "8297043539",
+      "id": 2
+    },
+    {
+      "name": "ravi",
+      "userName": "Ravi Kumar",
+      "email": "RvaiKumar2gmail.com",
+      "mobile": "8297043539",
+      "id": 3
+    }
+  ]
+}
